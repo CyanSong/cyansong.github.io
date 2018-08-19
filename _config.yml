@@ -11,15 +11,15 @@ github_repo: "https://github.com/cyansong/cyansong.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Be devoted!"
+sidebar-avatar: /img/about_cyan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     宋翔
+zhihu_username:     song-xiang-25
 github_username:    cyansong
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
